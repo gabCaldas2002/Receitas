@@ -1,0 +1,45 @@
+.containerErro{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Triste{
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+  background-color: antiquewhite;
+  border-radius: 150px;
+  margin: 2rem;
+  width: 15rem;
+}
+
+.containerErro h1{
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+  background-color: antiquewhite;
+  border-radius: 20px;
+  padding: 0.5rem;
+  font-size: 2rem;
+}
+
+.containerErro h3{
+  padding: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.containerErro a{
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  background-color:rgb(252, 225, 190) ;
+  padding: 0.5rem;
+  border-radius: 2px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.35);
+  text-decoration: none;
+  transition: .2s;
+}
+
+.containerErro a:hover{
+  color: rgb(216, 0, 0);
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.35);
+
+}

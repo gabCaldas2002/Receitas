@@ -1,0 +1,259 @@
+[
+    {
+      "id": "1",
+      "imagem": "https://i.imgur.com/tjbYbbQ.jpg", 
+      "nome": "Frango ao Curry",
+      "descricaoReceita": "Um prato aromático e picante com peitos de frango em molho de curry cremoso.",
+      "nacionalidade": "India",
+      "ingredientes": [
+        "4 peitos de frango",
+        "2 colheres (sopa) de óleo de coco",
+        "1 cebola média, picada",
+        "3 dentes de alho, picados",
+        "1 colher (sopa) de curry em pó",
+        "1 colher (chá) de cúrcuma",
+        "1 colher (chá) de cominho",
+        "1 colher (chá) de gengibre fresco ralado",
+        "1 lata (400 ml) de leite de coco",
+        "1 pimentão vermelho, cortado em tiras",
+        "1 pimentão amarelo, cortado em tiras",
+        "1 cenoura grande, cortada em rodelas finas",
+        "Sal e pimenta a gosto",
+        "Coentro fresco picado para decorar"
+      ],
+      "modoPreparo": [
+        "Tempere os peitos de frango com sal e pimenta a gosto.",
+        "Em uma frigideira grande, aqueça o óleo de coco em fogo médio.",
+        "Adicione os peitos de frango e doure-os dos dois lados. Retire da frigideira e reserve.",
+        "Na mesma frigideira, adicione um pouco mais de óleo de coco, se necessário.",
+        "Refogue a cebola e o alho até que fiquem dourados e perfumados.",
+        "Acrescente o curry em pó, a cúrcuma, o cominho e o gengibre ralado. Refogue por mais alguns minutos para liberar os aromas das especiarias.",
+        "Despeje o leite de coco na frigideira e misture bem.",
+        "Adicione os pimentões e a cenoura cortados. Deixe cozinhar por cerca de 10-15 minutos, até que os legumes fiquem macios.",
+        "Retorne os peitos de frango à frigideira e deixe cozinhar por mais alguns minutos, para que o frango absorva os sabores do molho.",
+        "Prove e ajuste o sal e a pimenta, se necessário.",
+        "Sirva o frango ao curry sobre arroz branco ou arroz de couve-flor, polvilhado com coentro fresco picado."
+      ]
+    },
+    {
+      "id": "2",
+      "imagem": "https://i.imgur.com/9MBloCX.jpg",
+      "nome": "Risoto de Cogumelos",
+      "descricaoReceita": "Texturas e sabores misturados: risoto cremoso com cogumelos variados.",
+      "nacionalidade": "Itália",
+      "ingredientes": [
+        "2 xícaras de arroz arbóreo",
+        "300 g de cogumelos variados (shiitake, champignon, etc.), fatiados",
+        "1 cebola média, picada",
+        "3 dentes de alho, picados",
+        "1/2 xícara de vinho branco seco",
+        "1,5 litros de caldo de legumes",
+        "1/2 xícara de queijo parmesão ralado",
+        "2 colheres (sopa) de manteiga",
+        "2 colheres (sopa) de azeite de oliva",
+        "Sal e pimenta a gosto",
+        "Salsinha picada para decorar"
+      ],
+      "modoPreparo": [
+        "Aqueça o caldo de legumes em uma panela e mantenha-o aquecido em fogo baixo.",
+        "Em outra panela, aqueça 1 colher de sopa de azeite e 1 colher de sopa de manteiga.",
+        "Refogue a cebola e o alho até ficarem dourados.",
+        "Adicione os cogumelos fatiados e refogue até que fiquem macios e dourados. Tempere com sal e pimenta.",
+        "Acrescente o arroz arbóreo e refogue por alguns minutos até os grãos ficarem levemente translúcidos.",
+        "Adicione o vinho branco e mexa até que ele seja absorvido pelo arroz.",
+        "Comece a adicionar o caldo de legumes, uma concha de cada vez, mexendo sempre e esperando que o líquido seja absorvido antes de adicionar mais.",
+        "Continue esse processo até que o arroz esteja cozido, cremoso e al dente.",
+        "Desligue o fogo e misture o queijo parmesão ralado e 1 colher de sopa de manteiga.",
+        "Tempere com sal e pimenta, se necessário.",
+        "Sirva o risoto em pratos individuais, polvilhado com salsinha picada."
+      ]
+    },
+    {
+      "id": "3",
+      "imagem": "https://i.imgur.com/qE5uHnj.jpg",
+      "nome": "Salada Caprese",
+      "descricaoReceita": "Combinação fresca de tomate, mussarela e manjericão, regada com azeite e vinagre.",
+      "nacionalidade": "Itália",
+      "ingredientes": [
+        "4 tomates grandes",
+        "200 g de queijo mussarela de búfala",
+        "Folhas de manjericão fresco",
+        "Azeite de oliva extra virgem",
+        "Vinagre balsâmico",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": [
+        "Lave os tomates e corte-os em rodelas.",
+        "Corte a mussarela de búfala em rodelas.",
+        "Em um prato, intercale as rodelas de tomate, mussarela e folhas de manjericão.",
+        "Regue a salada com azeite de oliva e vinagre balsâmico.",
+        "Tempere com sal e pimenta a gosto.",
+        "Sirva a salada caprese como entrada ou acompanhamento."
+      ]
+    },
+    {
+      "id": "4",
+      "imagem": "https://i.imgur.com/DABa49e.jpg",
+      "nome": "Salmão Grelhado com Molho de Maracujá",
+      "descricaoReceita": "Filés de salmão grelhados com molho doce de maracujá.",
+      "nacionalidade": "Fusão de influências culinárias",
+      "ingredientes": [
+        "4 filés de salmão",
+        "Suco de 2 maracujás",
+        "Polpa de 1 maracujá",
+        "2 colheres (sopa) de mel",
+        "2 colheres (sopa) de manteiga derretida",
+        "1 colher (sopa) de molho de soja",
+        "2 dentes de alho, picados",
+        "Sal e pimenta a gosto",
+        "Salsinha picada para decorar"
+      ],
+      "modoPreparo": [
+        "Tempere os filés de salmão com sal, pimenta e alho picado.",
+        "Em um recipiente, misture o suco de maracujá, a polpa de maracujá, o mel, a manteiga derretida e o molho de soja. Reserve um pouco desse molho para servir.",
+        "Deixe os filés de salmão marinarem nessa mistura por pelo menos 20 minutos.",
+        "Pré-aqueça a grelha ou uma frigideira antiaderente.",
+        "Grelhe os filés de salmão por cerca de 3-4 minutos de cada lado, regando com a marinada.",
+        "Aqueça a porção reservada do molho de maracujá.",
+        "Sirva os filés de salmão regados com o molho aquecido e polvilhados com salsinha picada."
+      ]
+    },
+    {
+      "id": "5",
+      "imagem": "https://i.imgur.com/gL2Pzdd.jpg",
+      "nome": "Massa Carbonara",
+      "descricaoReceita": "Espaguete cremoso com pancetta crocante e queijo parmesão, um clássico italiano.",
+      "nacionalidade": "Itália",
+      "ingredientes": [
+        "400 g de espaguete",
+        "150 g de pancetta ou bacon, em cubos",
+        "3 ovos",
+        "1 xícara de queijo parmesão ralado",
+        "2 dentes de alho, picados",
+        "Sal e pimenta a gosto",
+        "Salsinha picada para decorar"
+      ],
+      "modoPreparo": [
+        "Cozinhe o espaguete em água com sal até ficar al dente. Escorra e reserve.",
+        "Em uma frigideira grande, frite a pancetta ou o bacon até que fiquem dourados e crocantes. Retire do fogo e reserve.",
+        "Em uma tigela, bata os ovos com o queijo parmesão ralado. Reserve.",
+        "Na mesma frigideira onde fritou a pancetta, adicione um pouco de azeite, se necessário, e refogue o alho picado.",
+        "Adicione o espaguete cozido à frigideira e misture bem com o alho.",
+        "Retire a frigideira do fogo e adicione a mistura de ovos e queijo, mexendo rapidamente para que os ovos cozinhem com o calor da massa.",
+        "Tempere com sal e pimenta a gosto.",
+        "Sirva a massa carbonara com os cubos de pancetta por cima e salsinha picada para decorar."
+      ]
+    },
+    {
+      "id": "6",
+      "imagem": "https://i.imgur.com/YhsZLof.jpg",
+      "nome": "Brigadeiro",
+      "descricaoReceita": "Doce tradicional brasileiro feito com leite condensado, cacau e manteiga, coberto com granulado.",
+      "nacionalidade": "Brasil",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 colheres (sopa) de cacau em pó",
+        "2 colheres (sopa) de manteiga",
+        "Granulados de chocolate"
+      ],
+      "modoPreparo": [
+        "Em uma panela, misture o leite condensado, o cacau em pó e a manteiga.",
+        "Cozinhe em fogo médio, mexendo sempre, até que a mistura desgrude do fundo da panela e atinja o ponto de brigadeiro.",
+        "Desligue o fogo e deixe a massa esfriar.",
+        "Com as mãos untadas de manteiga, pegue pequenas porções da massa e enrole bolinhas.",
+        "Passe cada bolinha no granulado de chocolate, cobrindo bem.",
+        "Coloque os brigadeiros em forminhas de papel e sirva em seguida."
+      ]
+    },
+    {
+      "id": "7",
+      "imagem": "https://i.imgur.com/FAgVivC.jpg",
+      "nome": "Salada de Quinoa",
+      "descricaoReceita": "Salada refrescante de quinoa com pepino, pimentões, cebola e hortelã.",
+      "nacionalidade": "Opção saudável e global",
+      "ingredientes": [
+        "1 xícara de quinoa",
+        "2 xícaras de água",
+        "1 pepino, sem sementes, cortado em cubos",
+        "1 pimentão vermelho, cortado em cubos",
+        "1 pimentão amarelo, cortado em cubos",
+        "1 cebola roxa, picada",
+        "Folhas de hortelã fresco, picadas",
+        "Suco de 1 limão",
+        "Azeite de oliva",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": [
+        "Lave bem a quinoa em água corrente.",
+        "Em uma panela, leve a quinoa e a água ao fogo. Cozinhe em fogo baixo até que toda a água seja absorvida e a quinoa esteja cozida.",
+        "Retire a quinoa do fogo e deixe esfriar.",
+        "Em uma tigela grande, misture a quinoa cozida, o pepino, os pimentões, a cebola roxa e as folhas de hortelã.",
+        "Regue a salada com suco de limão e um fio de azeite de oliva.",
+        "Tempere com sal e pimenta a gosto e misture bem.",
+        "Deixe a salada de quinoa na geladeira por pelo menos 30 minutos antes de servir, para que os sabores se misturem.",
+        "Sirva a salada de quinoa como acompanhamento ou prato principal leve."
+      ]
+    },
+    {
+      "id": "8",
+      "imagem": "https://i.imgur.com/ichKJ14.jpg",
+      "nome": "Tiramisù",
+      "descricaoReceita": "Sobremesa italiana com camadas de biscoitos champanhe mergulhados no café e creme de queijo mascarpone.",
+      "nacionalidade": "Itália",
+      "ingredientes": [
+        "200 g de queijo mascarpone",
+        "3 ovos, separados em gemas e claras",
+        "1/2 xícara de açúcar",
+        "1 xícara de café forte, frio",
+        "2 colheres (sopa) de licor de café (como o Kahlúa), opcional",
+        "200 g de biscoitos champanhe",
+        "Cacau em pó para polvilhar",
+        "Chocolate ralado para decorar"
+      ],
+      "modoPreparo": [
+        "Em uma tigela, misture as gemas e metade do açúcar. Bata até obter um creme claro e fofo.",
+        "Adicione o queijo mascarpone à mistura de gemas e açúcar. Misture bem até ficar homogêneo.",
+        "Em outra tigela, bata as claras em neve até formar picos firmes. Gradualmente, adicione o restante do açúcar e continue batendo até obter um merengue brilhante.",
+        "Com cuidado, incorpore as claras em neve à mistura de queijo mascarpone, fazendo movimentos suaves de baixo para cima para não perder o volume.",
+        "Misture o café forte com o licor de café, se estiver usando.",
+        "Passe os biscoitos champanhe rapidamente no café misturado com licor e arrume-os em um refratário retangular, formando uma camada.",
+        "Espalhe metade da mistura de mascarpone sobre os biscoitos.",
+        "Faça outra camada de biscoitos embebidos no café e cubra com o restante da mistura de mascarpone.",
+        "Cubra o refratário com filme plástico e leve à geladeira por pelo menos 4 horas, ou idealmente durante a noite, para que o tiramisù firme e os sabores se desenvolvam.",
+        "Antes de servir, polvilhe cacau em pó e chocolate ralado por cima do tiramisù.",
+        "Corte em porções e sirva gelado."
+      ]
+    },
+    {
+      "id": "9",
+      "imagem": "https://i.imgur.com/oKG9lQB.jpg",
+      "nome": "Mousse de Chocolate",
+      "descricaoReceita": "Sobremesa delicada e indulgente feita com chocolate meio amargo e creme de leite.",
+      "nacionalidade": "França",
+      "ingredientes": [
+        "200 g de chocolate meio amargo",
+        "3 ovos",
+        "1/4 de xícara de açúcar",
+        "1 colher (sopa) de manteiga",
+        "1 colher (chá) de essência de baunilha",
+        "1 pitada de sal",
+        "1/2 xícara de creme de leite fresco",
+        "Chocolate ralado para decorar"
+      ],
+      "modoPreparo": [
+        "Derreta o chocolate meio amargo e a manteiga em banho-maria ou no micro-ondas, mexendo bem para ficar homogêneo. Deixe esfriar um pouco.",
+        "Separe as gemas das claras dos ovos.",
+        "Em uma tigela, bata as gemas com metade do açúcar até obter um creme claro e fofo. Adicione a essência de baunilha e a pitada de sal, e misture bem.",
+        "Misture o chocolate derretido com as gemas batidas até obter uma mistura homogênea.",
+        "Em outra tigela, bata as claras em neve, adicionando aos poucos o restante do açúcar. Continue batendo até obter picos firmes.",
+        "Com cuidado, incorpore as claras em neve à mistura de chocolate e gemas, fazendo movimentos suaves de baixo para cima para não perder o volume.",
+        "Na mesma tigela que bateu as claras, bata o creme de leite fresco até atingir a consistência de chantilly.",
+        "Adicione o chantilly à mistura de chocolate e claras, dobrando delicadamente até ficar bem incorporado.",
+        "Distribua o mousse em taças individuais ou em um recipiente grande.",
+        "Leve à geladeira por pelo menos 2 horas, ou até que o mousse esteja firme.",
+        "Antes de servir, decore com chocolate ralado por cima.",
+        "Sirva o mousse de chocolate gelado e aproveite!"
+      ]
+    }
+  ]
+  

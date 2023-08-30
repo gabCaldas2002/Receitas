@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700;1,900&display=swap');
+
+body, html {
+    background-image: url(/src/assets/Background.jpg);
+    height: 100vh;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: Tahoma;
+}
+
+.lista-receitas{
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 2%; 
+    max-width: 70%;
+    margin: 1% auto;
+}
+
+.lista-receitas a{
+    transition: .5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25rem;
+    color: #ffffff;
+}
+
+.lista-receitas a:hover{
+    background-color: #ffac75;
+}
+
+.lista-receitas img{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+
+.receita-card{
+    font-family: 'Popins', sans-serif;
+    width: 100%;
+    border-radius: 3px;
+    text-align: center;
+    background-color: rgb(247, 234, 216);
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.35);
+    font-weight: bold; 
+    position: relative;
+    transition: .5s;
+
+}
+
+.receita-card:hover{
+    box-shadow: 0px 1px 10px 0px rgba(0,0,0,0.75);
+}
+
+.receita-card h3{
+    font-weight: normal;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.receita-card h1{
+    font-style: italic;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.btn-receita-completa {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0.8rem;
+    padding: 0.8rem; 
+    background-color: #ff781f;
+    text-decoration: none;
+    border-radius: 3px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    box-shadow: 1px 3px 3px 0px rgba(0,0,0,0.35);
+}
+
+.btn-receita-completa:hover {
+    background-color: #ffac75;
+}
